@@ -4,7 +4,7 @@
 A real estate company has the data of real estate prices. The company wants to optimise the selling price of the properties, based on important factors such as area, bedrooms, parking, etc.
 
 
-## RESULTS:
+## Result
 
 * Area,bedrooms,bathrooms,stores and Boolean-values are affecting house prices. They are responsible for 67% of the variation in house prices. (Adj. R-squared=67%)
 
