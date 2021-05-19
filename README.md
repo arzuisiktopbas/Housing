@@ -37,4 +37,4 @@ A real estate company has the data of real estate prices. The company wants to o
 * No Multicollinearity: I checked VIFs. Mainroad(5.51) has the highest VIF value.
 
 
-@intern (https://www.centerhears.com/)
+@intern data from (https://www.centerhears.com/)
