@@ -35,3 +35,6 @@ A real estate company has the data of real estate prices. The company wants to o
 * Homoskedasticity: I plotted the residuals versus fitted (predicted) values. On the left end of the graph , the residuals seem to fluctuate more, i.e. higher variance, which is an indication of heteroscedasticity. But homoskedasticity does not seem to be a major problem. I also ran the robust regression (RLM) by allowing heteroskedastic error term but the standard errors didn’t change much.
 
 * No Multicollinearity: I checked VIFs. Mainroad(5.51) has the highest VIF value.
+
+
+@intern (https://www.centerhears.com/)
