@@ -1,4 +1,8 @@
-# Housing
+# Real Estate Analysis
+
+## Problem Statement:
+A real estate company has the data of real estate prices. The company wants to optimise the selling price of the properties, based on important factors such as area, bedrooms, parking, etc.
+
 
 ## RESULTS:
 
